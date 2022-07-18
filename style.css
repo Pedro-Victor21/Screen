@@ -4,8 +4,11 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@800&family=Roboto:ital,wght@1,100&display=swap');
 
 body {
     display: flex;
